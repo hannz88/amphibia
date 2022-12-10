@@ -33,5 +33,5 @@ There are several limitations to this project:
 I've turned the data into a viz on Tableau. Have a look [here](https://public.tableau.com/app/profile/han2134) and let me know if you have any constructive feedback!
 
 <p align="center">
-    <img src="https://github.com/hannz88/amphibia/blob/main/Image/Amphibia.gif" alt="Gifs of Anne, SPrig, Hop Pop & Polly fishing on a fish">
+    <img src="https://github.com/hannz88/amphibia/blob/main/Image/tumblr_puuc0bzRe21usvf81o5_500.gif" alt="Gifs of Anne, SPrig, Hop Pop & Polly fishing on a fish">
 </p>
