@@ -14,7 +14,7 @@ I love the shows for a few reasons:
 * Found family trope: I’m a sucker for stories where characters found a family that are not related by blood! The Plantars took Anne in when nobody would. Hop Pop even claimed Anne to be her adopted grand-daughter!
 * Community: The frogs live in a community and everyone knew each other. The same happened when Anne went back to Earth - the Thai community came together to support her!
 
-
+## The notebooks
 I really love the show and decided to create a viz for it. The notebooks contain the code I used:
 * Scraping fandom.ipynb -> contains the  code I used to scrape fandom for the scripts
 * Scraping imdb.ipynb -> contains the code I used to scrape IMDB for the ratings
